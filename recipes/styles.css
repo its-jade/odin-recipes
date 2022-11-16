@@ -24,7 +24,6 @@
 
 body {
     font-family: 'Circe', sans-serif;
-    text-align: center;
 }
 
 h1 {
@@ -34,15 +33,29 @@ h1 {
     text-align: center;
 }
 
-a {
-    font-weight: regular;
+h3 {
+    font-family: "Circe", sans-serif;
     font-size: 20px;
-    text-decoration: none;
+    font-weight: normal;
 }
 
-a:hover {
-    text-decoration: underline;
-    text-decoration-thickness: 1px;
+p,
+ul,
+ol {
+    font-family: "Circe", sans-serif;
+    font-size: 20px;
+    font-weight: lighter;
 }
 
+ul {
+    list-style-type: circle;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    
+}
 
