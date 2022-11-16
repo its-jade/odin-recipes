@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'Circe';
+    src: url(fonts/CRC55.otf) format('opentype');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'Circe';
+    src: url(fonts/CRC35.otf) format('opentype');
+    font-weight: light;
+}
+
+@font-face {
+    font-family: 'Circe';
+    src: url(fonts/CRC25.otf) format('opentype');
+    font-weight: lighter;
+}
+
+@font-face {
+    font-family: 'Circe';
+    src: url(fonts/Circe-Bold.otf) format('opentype');
+    font-weight: bold;
+}
+
+body {
+    font-family: 'Circe', sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-family: "Circe", sans-serif;
+    font-weight: bold;
+    font-size: 45px;
+}
+
